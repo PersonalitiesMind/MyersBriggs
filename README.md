@@ -1,2 +1,2 @@
-# bannnedb.github.io/Bannned-Axes
-The Bannned-Axes Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# PersonalitiesMind.github.io/MyersBriggs
+The MyersBriggs Personality Quiz measures individuals' MBTI values, including Extrovert Emotion, Extrovert Logic, Extrovert Intution, Extrovert Sensation, Introvert Emotion, Introvert Emotion, Introvert Emotion, and Introvert Sensation.
